@@ -38,9 +38,11 @@ A non-public entity, a firm that is privately owned.
 
 
 • Nonprofit Company/Organization:
-It is formed for non-commercial purposes, for example, to perform community work or to establish a social or athletic club..  
-
+It is formed for non-commercial purposes, for example, to perform community work or to establish a social or athletic club ..  
+For the public.
 
 • Not-for-Profit Company/Organization:
 Similar to nonprofits but with a focus on limited data collection and stringent security measures to ensure community-driven trust.
 Those organisations which are set up with the prime objective of social welfare of the society.
+For the people in the Organization.
+
